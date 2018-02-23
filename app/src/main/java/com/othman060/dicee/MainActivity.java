@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
                 //eg number = randGenerator.nextInt(6);
                 Random randGenarator1 = new Random();
                 int number1 = randGenarator1.nextInt(6);
-                
 
                 rightdicee.setImageResource(diceeArray[number1]);
             }
